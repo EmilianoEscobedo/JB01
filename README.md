@@ -1,8 +1,3 @@
-# JB01
+# Java Basics
 
-Para este primer ejercicio tendréis que realizar lo siguiente:</br></br>
-- Crea un proyecto de Java desde 0</br>
-- Dentro del proyecto tenéis que crear un paquete. En el paquete tendréis que crear una clase.</br>
-- Dentro de la clase tenéis que crear el método main e imprimir todos los datos que se han visto en las sesiones.</br></br>
-
-Recordatorio: Los tipos de datos más comunes son int, long, double, boolean, String.
+Exercises of the Basic Java course of the Open Bootcamp platform</br></br>
